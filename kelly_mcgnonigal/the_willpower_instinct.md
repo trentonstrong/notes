@@ -1,4 +1,7 @@
-= The Willpower Instinct
+The Willpower Instinct
+======================
+
 Kelly Mcgonigal
 
-=== One
+One
+---
