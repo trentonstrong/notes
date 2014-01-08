@@ -42,4 +42,94 @@
 
 - A plan that diverges from reality and is not changed accordingly will cause problems.  Developers will lose morale.  Outside parties depending on the plan will not have the latest information and will base their plans on false data.
 
-- The worst possible thing that can happen to a plan is divergence from reality.  Honest plans always change.
+- The worst possible thing that can happen to a plan is divergence from reality.  Honest plans continually change.
+
+## Extreme Planning - Chapter 2 - Fear
+
+- Process around building software helps to mitigate fear.
+
+- Fear comes from both sides: customer and developer.
+
+- Customer fears:
+  * Deliverable will not be what was required.
+
+  * They will improperly specify the deliverable.
+
+  * Deliverable will cost too much.
+
+  * Developers aren't invested in the project as much as stakeholders.
+
+  * Development will not be transparent about plans.
+
+  * Plans shared will be fictitious.
+
+  * They won't understand technical details or impediments.
+
+  * They will be held to all their decisions and unable to react to business changes.
+
+  * Developers will not be trustworthy.
+
+- Developer fears:
+
+  * Will be given too much work to do in a reasonable amount of time.
+
+  * Will be given requirements that don't make sense or are too vague.
+
+  * Will be unable to achieve requirements because solution is too difficult.
+
+  * Will be held responsible without authority to make project work.
+
+  * Will have to sacrifice engineering quality in order to meet timelines.
+
+  * Will have to solve difficult problems without enough expertise or assistance.
+
+  * Will not have enough time to make project succeed.
+
+### Unacknowledged Fear is the Source of All Software Project Failures
+
+- Unacknowledged fears result in defense mechanisms.  An unacknowledged fear will not be dealt with, but will be avoided and hidden until it is too late.
+
+- Witholding communication based on expectations of an undesired response will always cause problems.
+
+- Customers and developers have rights within any collaborative development process.
+
+### Customer Bill of Rights
+
+- You have the right to an overall plan, to know what can be accomplished when and at what cost.
+
+- You have the right to get the most possible value out of every programming week.
+
+- You have the right to see progress in a running system, proven to work by passing
+repeatable tests that you specify.
+
+- You have the right to change your mind, to substitute functionality, and to change
+priorities without paying exorbitant costs.
+
+- You have the right to be informed of schedule changes, in time to choose how to reduce the scope to restore the original date.  You can cancel at any time and be left with a useful working system reflecting investment to date.
+
+### Programmer Bill of Rights
+
+- You have the right to know what is needed, with clear declarations of priority.
+
+- You have the right to produce quality work at all times.
+
+- You have the right to ask for and receive help from peers, managers, and
+customers.
+
+- You have the right to make and update your own estimates.
+
+- You have the right to accept your responsibilities instead of having them assigned
+to you.
+
+
+
+- Good development requires a culture that acknowledges fears and uncertainties and communicates about them.  (Painful truths!)
+
+- Once fear is acknowledged, responsibilities and ownership can be taken.  Only then can offensive action be taken.
+
+- Defensive fear-based process is rooted in control, and slows down the entire development effort.
+
+- Offensive process enables setting goals that are difficult to achieve and striving to achieve them as a team.  Offensive process does only what is required to get the work done in an order from most important to least important.
+
+
+
